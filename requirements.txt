@@ -2,3 +2,4 @@ Flask==2.3.2
 spacy==3.6.1
 inflect
 gunicorn==21.2.0
+numpy==1.24.3
